@@ -37,13 +37,13 @@ const app = {
                 name:"Dù cho mai về sau",
                 singer: "buitruonglinh",
                 path:"./assets/sourceSongs/songs/duchomaivesau.mp3",
-                image:"./assets/sourceSongs/img/image1.png"
+                image:"./assets/sourceSongs/img/image1.jpg"
             },
             {
                 name:"Đường tôi chở em về",
                 singer: "buitruonglinh",
                 path:"./assets/sourceSongs/songs/duongtoichoemve.mp3",
-                image:"./assets/sourceSongs/img/image2.png"
+                image:"./assets/sourceSongs/img/image2.jpg"
             },
             {
                 name:"Lỡ Say Bye là Bye",
@@ -67,13 +67,13 @@ const app = {
                 name:"Răng khôn",
                 singer: "Phi Phương Anh",
                 path:"./assets/sourceSongs/songs/rangkhon.mp3",
-                image:"./assets/sourceSongs/img/image6.png"
+                image:"./assets/sourceSongs/img/image6.jpg"
             },
             {
                 name:"Sài gòn đau lòng quá",
                 singer: "Hứa kim Tuyền",
                 path:"./assets/sourceSongs/songs/saigondaulongqua.mp3",
-                image:"./assets/sourceSongs/img/image7.png"
+                image:"./assets/sourceSongs/img/image7.jpg"
             },
             {
                 name:"Sài gòn hôm nay mưa",
